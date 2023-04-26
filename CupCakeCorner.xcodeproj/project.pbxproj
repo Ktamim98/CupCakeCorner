@@ -59,9 +59,9 @@
 			children = (
 				3FA0CD4329F9460C0052F009 /* CupCakeCornerApp.swift */,
 				3FA0CD4529F9460C0052F009 /* ContentView.swift */,
-				3FA0CD5129F9581B0052F009 /* Order.swift */,
 				3FA0CD5329F960360052F009 /* AddressView.swift */,
 				3FA0CD5729F964280052F009 /* CheckoutView.swift */,
+				3FA0CD5129F9581B0052F009 /* Order.swift */,
 				3FA0CD4729F9460D0052F009 /* Assets.xcassets */,
 				3FA0CD4929F9460D0052F009 /* Preview Content */,
 			);
