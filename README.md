@@ -1,6 +1,10 @@
 # Cupcake Corner
 This is an iOS app for ordering cupcakes. The app allows the user to select the type and quantity of cupcakes they would like to order, specify any special requests, and provide delivery details. The app then calculates the total cost of the order and sends it to a server using JSON. The server responds with a confirmation message, which is displayed to the user.
 
+https://github.com/Ktamim98/CupCakeCorner/assets/124142522/b9d08053-55fa-4cf1-9e93-ca8a5089d0b2
+
+
+
 ## Features
 - Users can select the type of cupcakes they want to order.
 - Users can select the quantity of cupcakes they want to order.
